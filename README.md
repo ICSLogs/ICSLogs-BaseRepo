@@ -1,4 +1,6 @@
 # ICSLogs-BaseRepo
+
+[![Join the chat at https://gitter.im/ICSLogs/ICSLogs-BaseRepo](https://badges.gitter.im/ICSLogs/ICSLogs-BaseRepo.svg)](https://gitter.im/ICSLogs/ICSLogs-BaseRepo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Log file catalog, formats, and software tools for {Application Name}
 
 ##Catalog
